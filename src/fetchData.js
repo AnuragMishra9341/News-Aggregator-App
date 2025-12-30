@@ -25,4 +25,3 @@ const apiKey =  import.meta.env.VITE_News_API_KEY ;
 export default getData
 
 
-

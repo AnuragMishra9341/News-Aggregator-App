@@ -1,6 +1,6 @@
 #  AI-News Aggregator
 
-**Live Demo:** [ainewssummarizer.netlify.app](https://ainewssummarizer.netlify.app)  
+
 A modern news aggregation app that summarizes real-time headlines using Gemini AI, with a clean UI, chatbot support, and dark mode.
 
 ---
